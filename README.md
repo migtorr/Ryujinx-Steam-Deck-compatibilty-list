@@ -1,0 +1,1 @@
+# Ryujinx-Steam-Deck-compatibilty-list
