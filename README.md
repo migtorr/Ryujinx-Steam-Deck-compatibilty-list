@@ -1,4 +1,4 @@
-## Ryujinx Steam-Deck compatibilty list
+## Ryujinx Steam Deck compatibilty list
 
 Compatibility list only between [Ryujinx Greemdev appimage](https://git.ryujinx.app/ryubing/ryujinx/-/releases) and the Steam Deck
 
