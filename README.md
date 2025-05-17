@@ -14,7 +14,7 @@ Anyone is free to update or share their results here, with the following require
 
 **Status label cheat sheet:**
 
-   `playable` - Boots and plays without any crashes or gpu bugs of any kind, and at a speed fast enough to reasonably enjoy on an average PC.
+   `playable` - Boots and plays without any crashes or gpu bugs of any kind, and at a speed fast enough to reasonably enjoy on your Deck.
 
    `ingame` - Boots and goes in-game but suffers from one or more of the following: crashes, deadlocks, gpu bugs, distractingly bad audio, or is simply too slow. Game still might able to be played all the way through, but not as the game is intended to play.
 
