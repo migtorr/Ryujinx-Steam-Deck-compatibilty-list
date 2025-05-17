@@ -16,6 +16,8 @@ assignees: migtorr
 **Switch firmware:**
 Switch firmware used
 
+**Hanheld or docked mode:**
+
 **Game status**
  `playable` - Boots and plays without any crashes or gpu bugs of any kind, and at a speed fast enough to reasonably enjoy on your Deck.
 
