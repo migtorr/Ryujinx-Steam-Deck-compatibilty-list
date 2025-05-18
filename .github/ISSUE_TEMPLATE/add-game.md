@@ -18,19 +18,6 @@ Switch firmware used
 
 **Hanheld or docked mode:**
 
-body:
-- type: dropdown
-  id: download
-  attributes:
-    label: How did you download the software?
-    options:
-      - Homebrew
-      - MacPorts
-      - apt-get
-      - Built from source
-  validations:
-    required: true
-
 **Game status:**
 
  `playable` - Boots and plays without any crashes or gpu bugs of any kind, and at a speed fast enough to reasonably enjoy on your Deck.
